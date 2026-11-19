@@ -26,7 +26,7 @@ The guiding rule, stated in the vault and applied throughout: *write what you ex
 
 ## Where this repository comes from
 
-This is Jacob Attia's copy ([attiaj/the-systematic-trading-lab](https://github.com/attiaj/the-systematic-trading-lab)) of the course repository written by Lucas Inglese / Quantreo ([Quantreo/the-systematic-trading-lab](https://github.com/Quantreo/the-systematic-trading-lab)). The notebooks, vault, scripts and reference data are Quantreo's course material. This copy is used by a small team to work through the course and to run its own research with the same method.
+This is my copy ([attiaj/the-systematic-trading-lab](https://github.com/attiaj/the-systematic-trading-lab)) of the course repository written by Lucas Inglese / Quantreo ([Quantreo/the-systematic-trading-lab](https://github.com/Quantreo/the-systematic-trading-lab)). The notebooks, vault, scripts and reference data are Quantreo's course material. This copy is used by a small team to work through the course and to run its own research with the same method.
 
 The two remotes are:
 
